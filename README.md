@@ -85,12 +85,14 @@ Develop intuition for feature importance
 Strengthen ML fundamentals
 
 # 🛠️ Tech Stack
+```
 Python
 Jupyter Notebook
 NumPy
 Pandas
 Matplotlib
 Scikit-learn
+```
 
 # 🚀 Getting Started
 1. Clone the repository
